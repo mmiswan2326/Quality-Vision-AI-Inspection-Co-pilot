@@ -3,7 +3,6 @@ import pandas as pd
 from pathlib import Path
 from PIL import Image
 from datetime import datetime
-
 from src.utils import predict_visual_defect
 from src.defect_risk import calculate_defect_risk, build_human_decision
 from src.text_analyzer import summarize_inspection_notes, detect_quality_keywords
