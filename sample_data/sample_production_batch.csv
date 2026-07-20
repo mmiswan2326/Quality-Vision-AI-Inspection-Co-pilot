@@ -1,0 +1,5 @@
+batch_id,product_type,machine_health,temperature,previous_defects
+B001,Metal Bearing,Normal,72,1
+B002,Plastic Cap,Warning,84,3
+B003,Circuit Board,Normal,68,0
+B004,Metal Gear,Critical,92,6

@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Generated reports
+*.pdf
+
+# Uploaded temporary images
+uploaded_inspection_image.jpg
+
+# Model files - optional
+# Agar model file bohat bari ho to GitHub par upload na karo
+*.keras
+*.h5
+*.pkl
+*.joblib
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
