@@ -5,6 +5,4 @@ pillow
 reportlab
 matplotlib
 scikit-learn
-opencv-python
-# tensorflow optional for final CNN model training
-# tensorflow
+opencv-python-headless
